@@ -1,0 +1,10 @@
+List of Mistakes Drill Chapter 3:
+
+Forgot final semicolon of letter on step 2
+Forgot final line ending of letter on step 2
+Used an else when checking male or female causing any letter other than 'f' or 'm' to default to the 'f' text
+Used "you" when i should have used "they" since i was referring to someone else when it came to age
+
+can't initialize string to 0. did this when changing int variable to string variable
+
+when using while loops that will check on a variable input by the user. make sure to reset and regrab the variable every loop iteration

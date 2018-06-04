@@ -1,0 +1,60 @@
+1.
+	Term: //
+	Definition: A character sequence that denotes a c++ comment
+2.
+	Term: <<
+	Definition: The insertion operator. Used to insert values into an object, such as cout, which is used to print output
+3.
+	Term: C++
+	Definition: A programming language made off of C. An interface for which humans can tell computers what to do by writing programs in the language
+4.
+	Term: comment
+	Definition: A section of text that is not ignored by the compiler and has no effect on the program. Often used to write notes.
+5.
+	Term: compiler
+	Definition: A program that takes text written in a high-level language and translates it into object code
+6.
+	Term: compile-time error
+	Definition: An error given by the compiler when there is a syntax error in code
+7.
+	Term: cout
+	Definition: Stands for Character Output. An object for interfacing with the output stream like the console window.
+8.
+	Term: executable
+	Definition: The file that contains all of the optimized machine code for executing a program when run.
+9.
+	Term: function
+	Definition: A section of code that takes in several arguments and returns a value after executing a set of steps
+10.
+	Term: header
+	Definition: A file used for defining functions and many other things. Is including in a program by the linker.
+11.
+	Term: IDE
+	Definition: Integrated Development Environment. A program used to write code, and do many other things like debug/compile/link
+12.
+	Term: #include
+	Definition: A pre-processor definition used to include libraries or headers during compile time
+13.
+	Term: library
+	Definition: A set of functions in another file
+14.
+	Term: linker
+	Definition: A program that grabs all of the compiled object code in different libraries and matches them to #include statements
+15.
+	Term: main()
+	Definition: The entrypoint function for any program
+16.
+	Term: object code
+	Definition: Code that is able to be read by the machine
+17.
+	Term: output
+	Definition: A return value of a function or a program.
+18.
+	Term: program
+	Definition: A set of instructions that tells a computer what to do
+19.
+	Term: source code
+	Definition: The actual human-readable code
+20.
+	Term: statement
+	Definition: Any line of code that is executed by a program

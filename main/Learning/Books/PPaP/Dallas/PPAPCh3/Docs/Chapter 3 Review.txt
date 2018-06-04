@@ -1,0 +1,29 @@
+Review
+1. Prompt is when the program asks for input from the user
+2. The extraction operator >>
+3. std::cout << "Please input a variable: ";
+   std::cin >> number;
+4. \n is called a 'newline" and its purpose is to represent the end of a line
+5. whitespace
+6. anything other than a number or a sign #TODO: clarify
+7. std::cout << "Hello, " << first_name << "!\n";
+8. An object is a place in memory that stores a value
+9. A literal is a constant value specific to each type
+10. 1 is an integer literal, "hi" is a string literal, 1.9 is a float literal, 'a' is a character literal, true is a boolean literal #TODO: check that last one
+11. A variable is a named object that has a type
+12. char=1 byte, int=4 bytes, double=8 bytes
+13. bytes
+14. = is assignment. it takes a value and stores it in memory, == is a boolean operator that checks if the values in memory match
+15. A definition is when the computer sets aside some memory for an object
+16. An initialization is when the computer defines a variable and sets it to a value. Assignment is just the second step. it assumes the memory is already set aside for the variable
+17. String concatenation is taking two strings and putting them together end to end. "this is " + "string concatenation" == "this is string concatenation"
+18. "This_1_is fine" is not fine. spaces aren't allowed
+	"2_for_1_special" is not fine. names can't start with a number
+	"latest thing" is not fine. spaces aren't allowed
+19. num1, numI, numl, num0, numO
+20. Descriptive but short
+	Try to not shorten names into abbreviated versions
+	Make the names as human-readable as possible, ex: "isHealthy" for a bool reads nicely with if checks: "if(player.isHealthy)"
+21. Type safety is using variables only in ways that their type allows. It's important because performing unsafe operations usually results in undefined behavior or unexpected errors that could have been avoided if the program was type-safe.
+22. Doubles can hold floating point values that ints can't and there can be some loss of information. Ex: 3.4 is a double, but when converted to an int, the value becomes 3. That extra .4 could be critical to the program and it's now gone.
+23. If you're unsure if a conversion might be unsafe, use {} initialization to guarantee type-safety.

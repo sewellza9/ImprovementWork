@@ -1,0 +1,92 @@
+1.
+	Term: assignment
+	Definition: assignment is putting a value into a variable
+2.
+	Term: cin
+	Definition: stands for charater input. an object used for grabbing values from the input stream
+3.
+	Term: concatenation
+	Definition: the combination of two strings to become one
+4.
+	Term: conversion
+	Definition: Making a literal or a variable have a different type
+5.
+	Term: declaration
+	Definition: the point in a program at which a name is given to an object
+6.
+	Term: decrement
+	Definition: decreasing an integer by 1
+7.
+	Term: definition
+	Definition: a declaration that sets aside memory for an object
+8.
+	Term: increment
+	Definition: increasing an integer by 1
+9.
+	Term: initialization
+	Definition: a declaration that also gives a value to a variable
+10.
+	Term: name
+	Definition: the character sequence use to refer to an object
+11.
+	Term: narrowing
+	Definition: a type of conversion when converting from a type to another type that has less memory storage than the first
+12.
+	Term: object
+	Definition: a place in memory that holds a value of a given type
+13.
+	Term: operation
+	Definition: manipulating an object, or the memory stored within the object
+14.
+	Term: operator
+	Definition: the character, or characters, used to designate an operation
+15.
+	Term: type
+	Definition: a way to define a set of values and possible operations for a particular object
+16.
+	Term: type safety
+	Definition: only performing operations that stick to the rules for each type
+17.
+	Term: value
+	Definition: the actual data stored in memory for an object
+18.
+	Term: variable
+	Definition: an object with a name
+	
+	
+	
+Declaration VS Definition VS Initialization VS Assignment
+
+Order:
+Declaration
+Definition		Initialization is all three steps at once
+Assignment
+
+
+Declaration:
+	int func();
+	
+Declaration then definition:
+	int func();
+	
+	int func()
+	{
+		return 1;
+	}
+
+Declaration and Definition:
+	int x;
+	
+Declaration, Definition, and then Assignment:
+	int x;
+	x = 0;
+	
+Initialization:
+	int x = 0;
+	
+	
+
+	
+	
+Declaration(variable):
+	extern int x; //extern doesn't actually set aside memory for x, it just says that there is an object called x, but it's located somewhere else, like in a header file or a library
