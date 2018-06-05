@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Section_1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\REPOS\ImprovementWork\main\Learning\Tutorials\Unreal\Udemy Complete Tutorial\Section 1\Zac\Section_1\Intermediate\Build\Win64\UE4Editor\Development\Section_1\Section_1.cpp.obj"
+"C:\REPOS\ImprovementWork\main\Learning\Tutorials\Unreal\Udemy Complete Tutorial\Section 1\Zac\Section_1\Intermediate\Build\Win64\UE4Editor\Development\Section_1\Section_1GameModeBase.cpp.obj"
+"C:\REPOS\ImprovementWork\main\Learning\Tutorials\Unreal\Udemy Complete Tutorial\Section 1\Zac\Section_1\Intermediate\Build\Win64\UE4Editor\Development\Section_1\Section_1.init.gen.cpp.obj"
+"C:\REPOS\ImprovementWork\main\Learning\Tutorials\Unreal\Udemy Complete Tutorial\Section 1\Zac\Section_1\Intermediate\Build\Win64\UE4Editor\Development\Section_1\Section_1GameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Section_1\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\REPOS\ImprovementWork\main\Learning\Tutorials\Unreal\Udemy Complete Tutorial\Section 1\Zac\Section_1\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Section_1.lib"
