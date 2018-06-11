@@ -362,3 +362,16 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+##########################
+# Unreal Generated Files #
+##########################
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+StarterContent/
+*.VC.db
+*DefaultEngine.ini
+*DefaultEditor.ini
